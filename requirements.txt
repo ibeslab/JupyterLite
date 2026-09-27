@@ -43,6 +43,7 @@ ipyleaflet
 plotly>=6,<7
 bqplot
 
+panda
 numpy
 scipy
 matplotlib

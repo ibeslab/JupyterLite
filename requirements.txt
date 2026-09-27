@@ -43,7 +43,7 @@ ipyleaflet
 plotly>=6,<7
 bqplot
 
-pandas
+panda
 numpy
 scipy
 matplotlib
@@ -51,3 +51,4 @@ sympy==1.14.0
 opencv-python
 pillow
 control
+paho-mqtt

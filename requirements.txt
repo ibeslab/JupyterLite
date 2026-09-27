@@ -50,3 +50,4 @@ matplotlib
 sympy==1.14.0
 opencv-python
 pillow
+control
